@@ -6,3 +6,5 @@ I was running out of storage on my 128 GB MacBook, so I decided to research ways
 
 1. Clone this repository to your computer.
 2. Double-click the ```cleanup.command``` file and let it run in Terminal (make sure you're using ZSH, not Bash). If you encounter an error about Terminal not having permission to open the file, run this command: ```chmod u+x [FILE PATH]```.
+
+If you want to use Bash instead of ZSH, open the file in textEdit (or a similar text editor) and replace the very first line with ```#!/bin/bash```. 
