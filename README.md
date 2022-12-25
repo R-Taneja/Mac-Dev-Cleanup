@@ -1,4 +1,4 @@
-# Mac-Dev-Cleanup
+# Mac Dev Cleanup
 
 I was running out of storage on my 128 GB MacBook, so I decided to research ways to free up space. I use Homebrew, Git, JS, and Xcode pretty often, so this tutorial caught my eye: [freeCodeCamp - How to free up space on your developer Mac](https://www.freecodecamp.org/news/how-to-free-up-space-on-your-developer-mac-f542f66ddfb/). The tutorial was pretty helpful, but copy and pasting each and every command into Terminal every few weeks became tedious. So, I created this ZSH script to do it for me.
 
